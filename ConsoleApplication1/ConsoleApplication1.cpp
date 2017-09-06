@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("hello, console application.");
+	printf("hello, console application1.");
     return 0;
 }
 
